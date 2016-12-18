@@ -1,3 +1,6 @@
 #This is just a written file in py
 
-print ("Hello World!")
+def main(msg):
+    print(msg)
+
+main("Hello People")
